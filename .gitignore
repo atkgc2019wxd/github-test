@@ -1,3 +1,7 @@
+# .project是eclipse生成的，.idea是idea生成的
+.project
+.idea
+
 # Compiled class file
 *.class
 
